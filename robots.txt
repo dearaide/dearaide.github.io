@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dearaide.github.io/dearaide.txt.gz
+Sitemap: https://dearaide.github.io/app/dearaide.txt.gz
+Sitemap: https://dearaide.github.io/assets/dearaide.txt.gz
+Sitemap: https://dearaide.github.io/css/dearaide.txt.gz
+Sitemap: https://dearaide.github.io/includes/dearaide.txt.gz
+Sitemap: https://dearaide.github.io/item/dearaide.txt.gz
+Sitemap: https://dearaide.github.io/src/dearaide.txt.gz
